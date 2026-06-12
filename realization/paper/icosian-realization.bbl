@@ -1,0 +1,83 @@
+\begin{thebibliography}{10}
+
+\bibitem{BerryKeating1999}
+Michael~V. Berry and Jonathan~P. Keating.
+\newblock The {R}iemann zeros and eigenvalue asymptotics.
+\newblock {\em SIAM Review}, 41(2):236--266, 1999.
+
+\bibitem{BoberEtAl2012}
+Jonathan Bober, Alyson Deines, Ariah Klages-Mokrane, Aaron Lauckner, Benjamin
+  Lewis, Karen Pan, Yan Wang, Ren\'e Whitley, and Dan Yasaki.
+\newblock A database of elliptic curves over $\mathbb{Q}(\sqrt 5)$ --- first
+  report.
+\newblock {\em The Open Book Series (ANTS X)}, 1:145--166, 2013.
+\newblock arXiv:1202.6612.
+
+\bibitem{BombieriLagarias1999}
+Enrico Bombieri and Jeffrey~C. Lagarias.
+\newblock Complements to {L}i's criterion for the {R}iemann hypothesis.
+\newblock {\em Journal of Number Theory}, 77(2):274--287, 1999.
+
+\bibitem{Connes1999}
+Alain Connes.
+\newblock Trace formula in noncommutative geometry and the zeros of the
+  {R}iemann zeta function.
+\newblock {\em Selecta Mathematica (N.S.)}, 5(1):29--106, 1999.
+
+\bibitem{ConwaySloane1999}
+John~H. Conway and Neil J.~A. Sloane.
+\newblock {\em Sphere Packings, Lattices and Groups}.
+\newblock Springer, 3rd edition, 1999.
+
+\bibitem{Davenport1936}
+Harold Davenport and Hans Heilbronn.
+\newblock On the zeros of certain {D}irichlet series.
+\newblock {\em Journal of the London Mathematical Society}, 11:181--185, 1936.
+
+\bibitem{Dembele2005}
+Lassina Demb\'el\'e.
+\newblock Explicit computations of {H}ilbert modular forms on $\mathbb{Q}(\sqrt
+  5)$.
+\newblock {\em Experimental Mathematics}, 14(4):457--466, 2005.
+
+\bibitem{Eichler1973}
+Martin Eichler.
+\newblock The basis problem for modular forms and the traces of the {H}ecke
+  operators.
+\newblock {\em Modular Functions of One Variable I, Lecture Notes in Math.},
+  320:75--151, 1973.
+
+\bibitem{JacquetLanglands1970}
+Herv\'e Jacquet and Robert~P. Langlands.
+\newblock Automorphic forms on $gl(2)$.
+\newblock volume 114 of {\em Lecture Notes in Mathematics}. Springer, 1970.
+
+\bibitem{Li1997}
+Xian-Jin Li.
+\newblock The positivity of a sequence of numbers and the {R}iemann hypothesis.
+\newblock {\em Journal of Number Theory}, 65(2):325--333, 1997.
+
+\bibitem{Montgomery1973}
+Hugh~L. Montgomery.
+\newblock The pair correlation of zeros of the zeta function.
+\newblock In {\em Analytic Number Theory (Proc. Sympos. Pure Math., Vol.
+  XXIV)}, pages 181--193. Amer. Math. Soc., 1973.
+
+\bibitem{Vigneras1980}
+Marie-France Vign\'eras.
+\newblock {\em Arithm\'etique des alg\`ebres de quaternions}, volume 800 of
+  {\em Lecture Notes in Mathematics}.
+\newblock Springer, 1980.
+
+\bibitem{Voight2021}
+John Voight.
+\newblock {\em Quaternion Algebras}, volume 288 of {\em Graduate Texts in
+  Mathematics}.
+\newblock Springer, 2021.
+
+\bibitem{Weil1952}
+Andr\'e Weil.
+\newblock Sur les ``formules explicites'' de la th\'eorie des nombres premiers.
+\newblock {\em Comm. S\'em. Math. Univ. Lund}, pages 252--265, 1952.
+
+\end{thebibliography}
